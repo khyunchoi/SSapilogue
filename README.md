@@ -1,5 +1,5 @@
 <div align="center">
-	![ssapilogue](https://user-images.githubusercontent.com/78924207/167992034-573173c0-daf4-470a-bb0e-04808e5c8695.png)
+	<img src="https://user-images.githubusercontent.com/78924207/167992034-573173c0-daf4-470a-bb0e-04808e5c8695.png">
 </div>
 
 > **SSAFY + Epilogue**
